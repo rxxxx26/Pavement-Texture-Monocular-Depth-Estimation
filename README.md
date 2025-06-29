@@ -46,7 +46,11 @@ Monocular depth estimation of asphalt pavement texture using GAN and pretrained 
 ```
 ├── Code.py                   # Main training script including data loading, model definition, and training process
 ├── requirements.txt          # List of required Python packages
+├── image/                    # Folder containing images
+│   ├── Model_Structure.png   # Model architecture diagram
+│   └── results.png           # Model prediction results visualization
 └── README.md                 # Project documentation
+
 ```
 
 ---
