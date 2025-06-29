@@ -59,7 +59,8 @@ Monocular depth estimation of asphalt pavement texture using GAN and pretrained 
 
 ### 1. Clone Repository
 bash
-git clone [https://github.com/rxxxx26/pavement-depth-estimation.git](https://github.com/rxxxx26/Pavement-Texture-Monocular-Depth-Estimation.git)
+git clone https://github.com/rxxxx26/Pavement-Texture-Monocular-Depth-Estimation.git
+
 cd pavement-depth-estimation
 
 
