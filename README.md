@@ -1,6 +1,6 @@
 # Pavement-Texture-Monocular-Depth-Estimation
 
-This project is qualified for participation in the "National Pioneer Cup on Intelligent Computing – Shandong University of Science and Technology Selection.
+This project is qualified for participation in the **"National Pioneer Cup on Intelligent Computing – Shandong University of Science and Technology Selection."**
 
 Monocular depth estimation of asphalt pavement texture using GAN and pretrained Depth-Anything-V2. Includes data preprocessing, augmentation, dual-branch generator, multi-loss optimization, and evaluation.
 
@@ -8,20 +8,21 @@ Monocular depth estimation of asphalt pavement texture using GAN and pretrained 
 
 ## 📌 Highlights
 
-- 🔍 Integrates **Depth-Anything-V2** pretrained model for auxiliary supervision
-- 🧠 **GAN architecture** with dual-branch generator and PatchGAN discriminator
-- 🧪 Composite loss: BerHu, L1, SSIM, Gradient, Perceptual (VGG19), Scale-Invariant
-- 🧰 Data preprocessing and enhancement: flipping, rotation, scaling, translation
-- 📊 Evaluation metrics: MAE, RMSE, relative error
+- 🔍 Integrates Depth-Anything-V2 pretrained model for auxiliary supervision  
+- 🧠 GAN architecture with dual-branch generator and PatchGAN discriminator  
+- 🧪 Composite loss: BerHu, L1, SSIM, Gradient, Perceptual (VGG19), Scale-Invariant  
+- 🧰 Data preprocessing and enhancement: flipping, rotation, scaling, translation  
+- 📊 Evaluation metrics: MAE, RMSE, relative error  
 
 ---
 
 ## 🗂️ Project Structure
 
+```
 ├── Code.py                   # Main training script including data loading, model definition, and training process
 ├── requirements.txt          # List of required Python packages
 └── README.md                 # Project documentation
-
+```
 
 ---
 
