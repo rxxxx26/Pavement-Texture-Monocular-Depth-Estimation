@@ -16,6 +16,14 @@ Monocular depth estimation of asphalt pavement texture using GAN and pretrained 
 
 ---
 
+## 🖼️ Model Architecture
+
+![Model Structure](path/to/your/model_structure.png)
+
+> The model features a GAN with a dual-branch generator and PatchGAN discriminator, guided by multi-loss functions for accurate depth estimation.
+
+---
+
 ## 🗂️ Project Structure
 
 ```
