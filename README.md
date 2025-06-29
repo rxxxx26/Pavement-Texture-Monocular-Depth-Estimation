@@ -28,13 +28,14 @@ Monocular depth estimation of asphalt pavement texture using GAN and pretrained 
 
 ### Quantitative Evaluation
 
+![Result](image/results.png)  
+
 | Metric         | Value          |
 | -------------- | -------------- |
-| MAE            | ~0.4008 mm     |
-| RMSE           | ~0.4919 mm     |
-| Relative Error | ~116.5508%     |
+| MAE            | 0.4008 mm     |
+| RMSE           | 0.4919 mm     |
+| Relative Error | 116.5508%     |
 
-![Result](image/result.png)  
 
 > These results demonstrate the effectiveness of the GAN-based depth estimation enhanced by Depth-Anything-V2.
 
