@@ -6,17 +6,17 @@ Monocular depth estimation of asphalt pavement texture using GAN and pretrained 
 
 ---
 
-## 📌 Highlights
+## Highlights
 
-- 🔍 Integrates Depth-Anything-V2 pretrained model for auxiliary supervision  
-- 🧠 GAN architecture with dual-branch generator and PatchGAN discriminator  
-- 🧪 Composite loss: BerHu, L1, SSIM, Gradient, Perceptual (VGG19), Scale-Invariant  
-- 🧰 Data preprocessing and enhancement: flipping, rotation, scaling, translation  
-- 📊 Evaluation metrics: MAE, RMSE, relative error  
+- Integrates Depth-Anything-V2 pretrained model for auxiliary supervision  
+- GAN architecture with dual-branch generator and PatchGAN discriminator  
+- Composite loss: BerHu, L1, SSIM, Gradient, Perceptual (VGG19), Scale-Invariant  
+- Data preprocessing and enhancement: flipping, rotation, scaling, translation  
+- Evaluation metrics: MAE, RMSE, relative error  
 
 ---
 
-## 🖼️ Model Architecture
+## Model Architecture
 
 ![Model Structure](image/Model_Structure.png)
 
@@ -24,7 +24,7 @@ Monocular depth estimation of asphalt pavement texture using GAN and pretrained 
 
 ---
 
-## 🎯 Results
+## Results
 
 ### Quantitative Evaluation
 
@@ -41,7 +41,7 @@ Monocular depth estimation of asphalt pavement texture using GAN and pretrained 
 
 ---
 
-## 🗂️ Project Structure
+## Project Structure
 
 ```
 ├── Code.py                   # Main training script including data loading, model definition, and training process
@@ -55,7 +55,7 @@ Monocular depth estimation of asphalt pavement texture using GAN and pretrained 
 
 ---
 
-## ⚙️ Setup & Usage
+## Setup & Usage
 
 ### 1. Clone Repository
 bash
